@@ -1,2 +1,4 @@
-# CodeAlpha_ProjectDataAnalytics
-One month internship of Data Analytics at CodeAlpha.
+# Mini Projects- DataAnalytics
+
+Project1- Exporalatory Data Analytics
+Project2- Data Visulization
