@@ -1,4 +1,4 @@
-# Project1 : 🚲 Bike Sales Analysis: Who Buys Bikes?
+# Project 1 : 🚲 Bike Sales Analysis: Who Buys Bikes?
 
 [Code Link](https://github.com/Mru017/CodeAlpha_ProjectDataAnalytics/blob/main/T1CA.ipynb)
 
