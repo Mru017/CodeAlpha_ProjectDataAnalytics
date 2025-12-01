@@ -62,3 +62,48 @@ The above chart below visually confirms this trend, showing a sharp drop-off in 
 The ideal target customer for a bike marketing campaign is a Female earning approximately **$ 50,950**, living in the **Europe**, who owns home and has a short commute. Future marketing should focus on a middle age female.
 This repository contains a Simple Exploratory Data Analysis (EDA) project where I analyze a dataset, uncover patterns, identify relationships, and visualize key insights using Python. The focus of this project is to build a strong analytical foundation and demonstrate data storytelling through clear and meaningful visualizations.
 
+#Project 2: 💰 Financial Portfolio Analysis: Loan & Credit Risk
+
+[Code Link](https://github.com/Mru017/CodeAlpha_ProjectDataAnalytics/blob/main/T2CA.ipynb)
+
+## 📌 Project Overview
+- This project focuses on **Financial Data Visualization** to analyze a bank's loan portfolio.
+Using a dataset of client credit records, I visualized key metrics such as **Outstanding Balances**, **Interest Rate Distribution**, and **Product Performance** over time.
+- The goal was to create a dashboard that helps financial managers identify high-value clients and assess credit exposure.
+
+## 📂 The Data
+The dataset consists of financial records with the following key attributes:
+* **Product Description:** Type of financial product (e.g., Product A, Product B).
+* **Client Name & Code:** Anonymized identifiers for unique customers.
+* **Balance Outstanding:** The total amount currently owed by the client.
+* **Interest Rate:** The annual percentage rate applied to the loan.
+* **Reporting Date:** The timeline of the data snapshot.
+
+## 📊 Analysis & Visualizations
+
+To analyze the portfolio's health, I created four key visualizations to answer specific business questions.
+
+### 1. Trend Analysis (Time Series)
+* **Chart Type:** Line Chart
+* **Metric:** Total Balance Outstanding Over Time
+* **Objective:** To track how the bank's total credit exposure is growing or shrinking month-over-month.
+* **Key Finding:**  The outstanding balance showed a steady upward trend from 2022 omwards.
+
+### 2. Product Performance
+* **Chart Type:** Bar Chart
+* **Metric:** Total Balance Outstanding by Product
+* **Objective:** To identify which loan products are driving the most volume.
+* **Key Finding:** "Product E" has the highest outstanding balance, making it the dominant product in the portfolio.
+
+### 3. Risk Correlation
+* **Chart Type:** Scatter Plot
+* **Metric:** Balance Outstanding vs. Interest Rate
+* **Objective:** To determine if higher debt amounts correlate with higher interest rates (Risk-Based Pricing).
+* **Key Finding:** There is no strong linear relationship between the Balance Outstanding and the Interest Rate.
+
+### 4. Portfolio Composition
+* **Chart Type:** Pie Chart
+* **Metric:** Percentage of Total Balance by Product
+* **Objective:** To see the market share of each product at a glance.
+* **Key Finding:**  Product D and E combined account for over 40% of the total portfolio value.
+
