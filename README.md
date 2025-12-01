@@ -62,7 +62,7 @@ The above chart below visually confirms this trend, showing a sharp drop-off in 
 The ideal target customer for a bike marketing campaign is a Female earning approximately **$ 50,950**, living in the **Europe**, who owns home and has a short commute. Future marketing should focus on a middle age female.
 This repository contains a Simple Exploratory Data Analysis (EDA) project where I analyze a dataset, uncover patterns, identify relationships, and visualize key insights using Python. The focus of this project is to build a strong analytical foundation and demonstrate data storytelling through clear and meaningful visualizations.
 
-#Project 2: 💰 Financial Portfolio Analysis: Loan & Credit Risk
+# Project 2: 💰 Financial Portfolio Analysis: Loan & Credit Risk
 
 [Code Link](https://github.com/Mru017/CodeAlpha_ProjectDataAnalytics/blob/main/T2CA.ipynb)
 
@@ -107,3 +107,13 @@ To analyze the portfolio's health, I created four key visualizations to answer s
 * **Objective:** To see the market share of each product at a glance.
 * **Key Finding:**  Product D and E combined account for over 40% of the total portfolio value.
 
+## 🏁 Conclusion & Recommendations
+
+This analysis provided a data-driven view of the bank's credit portfolio health. Key takeaways include:
+
+* **Product Dominance:** **Product E** is the primary driver of the lending portfolio, accounting for the highest outstanding balance. Any risk mitigation strategies should prioritize this product line.
+* **Pricing Strategy:** The scatter plot analysis revealed **no direct correlation** between loan size and interest rates. This suggests the bank is currently using a standardized pricing model rather than a dynamic, risk-adjusted pricing strategy based on exposure.
+
+
+**Strategic Recommendation:**
+To maximize profitability and manage risk, the bank should consider implementing **tiered interest rates** for high-balance clients (Top 10% of borrowers) to better align pricing with risk exposure.
