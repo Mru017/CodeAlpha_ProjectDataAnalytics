@@ -1,6 +1,6 @@
 # Project1 : 🚲 Bike Sales Analysis: Who Buys Bikes?
 
-[link to code](https://github.com/Mru017/CodeAlpha_ProjectDataAnalytics/blob/main/T1CA.ipynb)
+[Code Link](https://github.com/Mru017/CodeAlpha_ProjectDataAnalytics/blob/main/T1CA.ipynb)
 
 ## 📌 Project Overview
 - This project performs an **Exploratory Data Analysis (EDA)** on a retail dataset to understand the demographic and financial factors driving bicycle purchases.
