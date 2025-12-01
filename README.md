@@ -1,5 +1,4 @@
-# Project1 
-# 🚲 Bike Sales Analysis: Who Buys Bikes?
+# Project1 : 🚲 Bike Sales Analysis: Who Buys Bikes?
 
 ## 📌 Project Overview
 - This project performs an **Exploratory Data Analysis (EDA)** on a retail dataset to understand the demographic and financial factors driving bicycle purchases.
@@ -29,9 +28,9 @@ Before jumping into analysis, I performed a robust **Data Quality Check** to ens
 ## 📊 Key Insights & Analysis
 
 ### 1. Demographics Profile (Who Buys Bikes?)
-* **Observation:**By above analysis it is clear that,the typical customer who purchases a bike is a middle-aged female who is single. While females slightly outnumber males, the biggest differentiator is age, with the Middle Age bracket accounting for the vast majority of purchases.
-* **Conclusion:**Most of the Single Female and Middle age are majority of purchases.
-* 
+* **Observation:** By above analysis it is clear that,the typical customer who purchases a bike is a middle-aged female who is single. While females slightly outnumber males, the biggest differentiator is age, with the Middle Age bracket accounting for the vast majority of purchases.
+* **Conclusion:** Most of the Single Female and Middle age are majority of purchases.
+
 ### 2. Income vs. Purchase (Does Money Matter?)
 * **Observation:** Yes, there is a relationship between a customer's income and their likelihood of purchasing a bike. The analysis shows that the average income of bike purchasers is slightly higher ($50,950) compared to those who did not purchase a bike.
 * **Conclusion:** Income is a strong predictor of purchasing behavior.
